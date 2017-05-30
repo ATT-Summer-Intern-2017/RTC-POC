@@ -1,0 +1,23 @@
+{
+  "name": "rot-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATT-Summer-Intern-2017/RTC-POC.git"
+  },
+  "author": "Houston Bass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATT-Summer-Intern-2017/RTC-POC/issues"
+  },
+  "homepage": "https://github.com/ATT-Summer-Intern-2017/RTC-POC#readme"
+}
